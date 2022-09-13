@@ -1,4 +1,4 @@
-# Hoops
+# Hoops-API
 Hoops Application Backend For Game Registration application...
 
 ### Description:
