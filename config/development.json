@@ -1,0 +1,10 @@
+{
+    "database":{
+        "name":"Hoops_db",
+        "username":"promit",
+        "password":"bObDoDevAL0KreNr"
+    },
+    "OTP":{
+         "key":"6af39e72-5ca8-11ec-b710-0200cd936042"
+    }
+}

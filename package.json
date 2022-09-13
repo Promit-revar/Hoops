@@ -1,0 +1,31 @@
+{
+  "name": "hoops-backend",
+  "version": "1.0.0",
+  "description": "Repository for the backend of hoop's app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/credanic/hoops-backend.git"
+  },
+  "author": "Promit Revar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/credanic/hoops-backend/issues"
+  },
+  "homepage": "https://github.com/credanic/hoops-backend#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.15",
+    "morgan": "^1.10.0",
+    "node-sessionstorage": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "password-hash": "^1.2.2",
+    "twilio": "^3.71.3"
+  }
+}
